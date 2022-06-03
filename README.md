@@ -1,1 +1,1 @@
-# LEarnig_Errors
+# Learning_Errors
